@@ -2,8 +2,6 @@
 
 Welcome to the Food E-Commerce Platform! This is a powerful and responsive web application designed to streamline food ordering and delivery with a smooth user experience and a dynamic admin interface.
 
-![Food E-Commerce Platform](/frontend/src/assets/Screenshot%202024-11-05%20151550.png)
-
 ## 📚 Table of Contents
 
 - [About](#about)
@@ -21,21 +19,6 @@ Welcome to the Food E-Commerce Platform! This is a powerful and responsive web a
 
 The Food E-Commerce Platform is a full-featured e-commerce application built to connect food vendors with customers effortlessly. Customers can browse through a wide selection of food items, add products to their cart, make secure payments, and track their orders. An admin dashboard allows administrators to manage products, orders, and users effectively.
 
-## Features
-
-- **User Authentication**: Sign up, log in, and manage user sessions with secure JWT authentication.
-![Authentication](/frontend/src/assets/Screenshot%202024-11-05%20151609.png)
-- **Product Browsing**: View product details, filter by category, and search for specific food items.
-![Product Browsing](/frontend/src/assets/Screenshot%202024-11-05%20151647.png)
-- **Cart & Checkout**: Seamlessly add items to the cart, adjust quantities, and checkout with a simple workflow.
-![Cart & Checkout](/frontend/src/assets/Screenshot%202024-11-05%20151631.png)
-- **Order Management**: Customers can view their order history, while admins have full control over all orders.
-![Order Management](/frontend/src/assets/Screenshot%202024-11-05%20154349.png)
-
-- **Admin Dashboard**: An interactive admin panel for managing products, categories, and user accounts.
-![Admin Dashboard](/frontend/src/assets/Screenshot%202024-11-05%20153101.png)
-- **Responsive UI**: Optimized for various devices, including desktop, tablet, and mobile.
-![Responsive UI](/frontend/src/assets/Screenshot%202024-11-05%20153245.png)
 
 ## Tech Stack
 
